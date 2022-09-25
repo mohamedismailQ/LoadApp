@@ -1,0 +1,11 @@
+<resources>
+    <!-- dimension we need for design -->
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="small_text_size">18sp</dimen>
+    <dimen name="height_for_status_name_id">33dp</dimen>
+    <dimen name="width_for_status_name_id">92dp</dimen>
+    <dimen name="medium_text_size">20sp</dimen>
+    <dimen name="margin_needed_size">52dp</dimen>
+    <dimen name="height_file_name_id">34dp</dimen>
+    <dimen name="width_file_name_id">236dp</dimen>
+</resources>

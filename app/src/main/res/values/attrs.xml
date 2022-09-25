@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- attr for our custom btn-->
+    <declare-styleable name="LoadingButton">
+        <attr name="btnTxt" format="string"/>
+        <attr name="btnColor" format="color"/>
+        <attr name="btnColorDark" format="color"/>
+    </declare-styleable>
+</resources>
